@@ -1,0 +1,6 @@
+ReWhiteEngine Options
+
+ReWhiteCond %{REQUEST FILENAME} !-f
+ReWhiteCond %{REQUEST_FILENAME} !-d
+
+ReWhiteRule . index.php[L]

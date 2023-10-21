@@ -1,3 +1,7 @@
+<?php include '../layout/menu'?>
+
+
+
 <html>
 
     <head>
@@ -13,3 +17,6 @@
     </body>
 
 </html>
+
+
+
